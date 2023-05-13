@@ -45,6 +45,7 @@ void binary_tree_delete(binary_tree_t *tree);
 int binary_tree_is_leaf(const binary_tree_t *node);
 
 /* 5 */
+int binary_tree_is_root(const binary_tree_t *node);
 
 /* 6 */
 
